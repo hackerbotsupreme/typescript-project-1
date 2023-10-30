@@ -1,0 +1,8 @@
+first we run tsc --init , to make the tsconfig.json file then  we 
+open the tsconfig.json to change teh es version fron 2016 to 2022
+and we changed 
+"noEmitOnError" to  true, so that the ts code does not compiles into js code if we have wrote wrong ts code 
+"outDir" to  "./dist",     an output folder for all emitted files
+"rootDir": "./src",                                  /* Specify the root folder within your source files. */
+
+and make sure the tsconfid, src,dist are under the root folder .
