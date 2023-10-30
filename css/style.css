@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=EB+Garamond&family=Open+Sans:wght@300&display=swap");
+h1{
+  font-size: 50px;
+  color: #fff;
+  font-weight: bolder;
+  text-align: center;
+}
 .card-footer img {
   width: 2.5rem;
   height: 2.5rem;
